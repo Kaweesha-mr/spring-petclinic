@@ -21,8 +21,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import org.springframework.samples.petclinic.model.NamedEntity;
-import org.springframework.samples.petclinic.model.Person;
+
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
