@@ -11,12 +11,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 import jakarta.validation.constraints.NotBlank;
 
-/**
- * Simple JavaBean domain object representing a visit.
- *
- * @author Ken Krebs
- * @author Dave Syer
- */
+
 @Entity
 @Table(name = "visits")
 public class Visit extends BaseEntity {
